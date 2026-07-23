@@ -1,20 +1,20 @@
-<!-- ========================= -->
-<!-- FENORA PROFILE BANNER -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!-- FENORA INFOTECH - GITHUB PROFILE -->
+<!-- ====================================================== -->
+
+<!-- ===================== BANNER ========================= -->
 
 <p align="center">
-  <img 
-    src="./assets/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2009_23_01%20PM.png" 
-    width="100%" 
-    alt="Fenora Infotech Banner"
+  <img
+    src="./assets/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2009_23_01%20PM.png"
+    width="100%"
+    alt="Fenora Infotech"
   />
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!-- INTRODUCTION -->
-<!-- ========================= -->
+<!-- ===================== INTRO ========================== -->
 
 <h1 align="center">
   Hi, I'm Nitesh Kushwaha 👋
@@ -25,31 +25,38 @@
 </h3>
 
 <p align="center">
-  Building modern digital products across SaaS, Web, Mobile, Desktop & AI.
+  Building modern digital products across Web, SaaS, Mobile, Desktop & AI.
 </p>
 
 <p align="center">
+
   <a href="https://github.com/nitesh-kushwaha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.fenorainfotech.com">
-    <img src="https://img.shields.io/badge/Fenora%20Infotech-Website-0A84FF?style=for-the-badge" />
+    <img
+      src="https://img.shields.io/badge/Fenora%20Infotech-Website-0A84FF?style=for-the-badge"
+      alt="Fenora Infotech"
+    />
   </a>
+
 </p>
 
 ---
 
-<!-- ========================= -->
-<!-- ABOUT ME -->
-<!-- ========================= -->
+<!-- ===================== ABOUT ME ====================== -->
 
 ## 👨‍💻 About Me
 
 I'm a **Software Engineer and Product Builder** focused on creating modern, practical, and scalable digital solutions.
 
-My interests span across software engineering, product development, user experience, automation, and emerging technologies.
+I enjoy transforming ideas into real-world software — from initial concepts and product design to development, testing, deployment, and continuous improvement.
 
-I enjoy taking an idea from **concept → design → development → launch** and continuously improving it based on real-world needs.
+My interests include software engineering, product development, user experience, automation, artificial intelligence, and emerging technologies.
 
 ### What I Work With
 
@@ -65,9 +72,7 @@ I enjoy taking an idea from **concept → design → development → launch** an
 
 ---
 
-<!-- ========================= -->
-<!-- FENORA -->
-<!-- ========================= -->
+<!-- ===================== FENORA ========================= -->
 
 ## 🏢 Currently Working With
 
@@ -75,7 +80,7 @@ I enjoy taking an idea from **concept → design → development → launch** an
 
 Fenora Infotech is a technology and digital product development company focused on building modern software solutions and future-ready digital products.
 
-The work spans across:
+The work and product exploration spans across:
 
 ```text
 🚀 SaaS Platforms
